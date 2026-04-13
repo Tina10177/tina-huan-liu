@@ -31,6 +31,11 @@ Ich suche nach Möglichkeiten, meine Sprachkompetenz in Chinesisch und Deutsch, 
 - Die Verbindung von *Dao De Jing* und KI als vertiefte Denk- und Orientierungsperspektive
 - Sprachliche und kulturelle Brücken in der deutsch-chinesischen Zusammenarbeit
 
+## Derzeit im Aufbau
+- Öffentlicher Einstieg in mein Odoo-Wissensuniversum
+- Strukturierte Notizen zu China–Deutschland im Geschäftskontext
+- Weitere ausgewählte Inhalte folgen schrittweise
+
 ## Kontakt
 - LinkedIn: [Huan Liu auf LinkedIn](https://www.linkedin.com/in/huan-liu-361013155/)
 - E-Mail: [huanliude@gmx.de](mailto:huanliude@gmx.de)
