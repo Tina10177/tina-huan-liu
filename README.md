@@ -32,7 +32,7 @@ Ich suche nach Möglichkeiten, meine Sprachkompetenz in Chinesisch und Deutsch, 
 - Sprachliche und kulturelle Brücken in der deutsch-chinesischen Zusammenarbeit
 
 ## Derzeit im Aufbau
-- Öffentlicher Einstieg in mein Odoo-Wissensuniversum
+- Öffentlicher Einstieg in mein [Odoo-Wissensuniversum](https://github.com/Tina10177/odoo-wissensuniversum)
 - Strukturierte Notizen zu China–Deutschland im Geschäftskontext
 - Weitere ausgewählte Inhalte folgen schrittweise
 
